@@ -28,9 +28,9 @@ A real-time hand gesture recognition system designed to detect and classify **Ro
    git clone [https://github.com/YOUR_USERNAME/Rock-Paper-Scissors-YOLOv12.git](https://github.com/YOUR_USERNAME/Rock-Paper-Scissors-YOLOv12.git)
    cd Rock-Paper-Scissors-YOLOv12
 
-   Install required dependencies:
+2-**Install required dependencies:**
    pip install ultralytics opencv-python
 
-   🚀 How to Run
+  ** 🚀 How to Run**
    To test real-time detection via webcam, run:
-   python Rock.py
+     python Rock.py
